@@ -1,0 +1,24 @@
+{
+  "name": "url_shortner",
+  "version": "1.0.0",
+  "description": "demo app to short a URL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/born69confused/URL_short.git"
+  },
+  "author": "aman dwivedi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/born69confused/URL_short/issues"
+  },
+  "homepage": "https://github.com/born69confused/URL_short#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.0"
+  }
+}
